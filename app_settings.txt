@@ -1,0 +1,5 @@
+--start_web_address=http://online.wsj.com
+--stay_within=.*wsj\.com.*
+--output_dir=B:\TestingData
+--run_as_drain=No
+--save_output=No
